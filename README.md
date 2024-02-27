@@ -4,7 +4,7 @@ I'm **Rémy Abitbol** - I'm a **Full-Stack Software Engineer**. I'm passionate a
 
 I'm creating some cool librairies 🔥 to develop my side projects.
 
-[![skills](https://skillicons.dev/icons?i=ts,js,angular,react,svelte,nodejs,java,spring)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=ts,js,angular,nestjs,prisma,react,nodejs,java,spring)](https://skillicons.dev)
 
 <details>
 
