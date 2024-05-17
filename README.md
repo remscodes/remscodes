@@ -1,16 +1,9 @@
 # Hi there 👋
 
-I'm **Rémy Abitbol** - I'm a **Full-Stack Software Engineer**. I'm passionate about web technologies.
+I'm **Rémy Abitbol** - I'm a **Software Engineer**. I'm passionate about web technologies.
 
 I'm creating some cool librairies 🔥 to develop my side projects.
 
-[![skills](https://skillicons.dev/icons?i=ts,js,angular,nestjs,prisma,react,nodejs,java,spring)](https://skillicons.dev)
+What I use :
 
-<details>
-
-  <summary>GitHub Stats</summary>
-
-  </br>
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remscodes&hide=contribs&theme=vue-dark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[![skills](https://skillicons.dev/icons?i=ts,js,angular,nestjs,prisma,react,nodejs,jenkins,docker)](https://skillicons.dev)
